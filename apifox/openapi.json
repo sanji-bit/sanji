@@ -19,7 +19,7 @@
   "paths": {
     "/pet": {
       "put": {
-        "summary": "Update an existing pet.",
+        "summary": "Update an existing.",
         "deprecated": false,
         "description": "Update an existing pet by Id.",
         "operationId": "updatePet",
