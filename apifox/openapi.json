@@ -296,7 +296,7 @@
       "get": {
         "summary": "获取宠物ID",
         "deprecated": false,
-        "description": "Returns a single pet.",
+        "description": "Returns a single",
         "operationId": "getPetById",
         "tags": [
           "pet"
