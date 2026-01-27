@@ -18,4 +18,3 @@ files[] = {"path":"apifox/SwaggerPetstore-OpenAPI3.0.json","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
 type = openapi:3_1
-rootFiles[] = apifox/openapi.json
